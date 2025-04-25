@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Suren76
-- 👀 I’m interested in Web Dev,AI,WorkOut
-- 🌱 I’m currently learning Ethickal Hacking
 - 📫 How to reach me : https://t.me/Suren_2
 
 - My Projects 
